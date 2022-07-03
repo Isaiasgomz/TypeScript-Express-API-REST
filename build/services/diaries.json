@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "date": "2017-01-01",
+        "weather": "rainy",
+        "visibility": "poor",
+        "comment": "Prety scary flith, Im glad im alive"
+    },
+    {
+        "id": 2,
+        "date": "2017-01-02",
+        "weather": "sunny",
+        "visibility": "poor",
+        "comment": "Prety scary flith, Im glad im alive"
+    },
+    {
+        "id": 3,
+        "date": "2017-01-05",
+        "weather": "windy",
+        "visibility": "good",
+        "comment": "Prety scary flith, Im glad im alive"
+    },
+    {
+        "id": 4,
+        "date": "2017-01-6",
+        "weather": "cloudy",
+        "visibility": "good",
+        "comment": "Prety scary flith, Im glad im alive"
+    }
+]
